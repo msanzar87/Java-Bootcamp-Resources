@@ -1,4 +1,4 @@
-public class Weather {
+public class Weather1 {
     public static void main(String[] args) {
         double noon = 77;          //temperature at noon in fahrenheit.
         double evening = 61;       //temperature during the evening in fahrenheit

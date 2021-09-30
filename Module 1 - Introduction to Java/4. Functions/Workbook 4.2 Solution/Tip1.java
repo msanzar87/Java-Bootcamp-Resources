@@ -1,4 +1,4 @@
-public class Tip {
+public class Tip1 {
 
     public static void main(String[] args) {
         double bill = 53.5;

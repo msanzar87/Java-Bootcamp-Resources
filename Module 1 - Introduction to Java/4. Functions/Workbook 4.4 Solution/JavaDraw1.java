@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaDraw {
+public class JavaDraw1 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
