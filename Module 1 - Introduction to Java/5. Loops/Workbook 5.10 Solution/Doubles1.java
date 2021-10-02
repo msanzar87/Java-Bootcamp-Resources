@@ -1,4 +1,4 @@
-public class Doubles {
+public class Doubles1 {
     public static void main(String[] args) {
 
         int dice1 = rollDice();

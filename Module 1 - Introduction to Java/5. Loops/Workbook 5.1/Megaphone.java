@@ -1,6 +1,9 @@
 public class Megaphone {
     public static void main(String[] args) {
-        
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(i+". If Java was easy, they would call it Python!");
+
+        }
         //Task 1: make a for loop that prints this 10 times:
         //        If Java was easy, they would call it Python!
 

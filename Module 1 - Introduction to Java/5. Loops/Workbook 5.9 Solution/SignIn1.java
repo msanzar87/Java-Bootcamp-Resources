@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SignIn {
+public class SignIn1 {
     public static void main(String[] args) {
         String username = "Samantha";
         String password = "Java <3";

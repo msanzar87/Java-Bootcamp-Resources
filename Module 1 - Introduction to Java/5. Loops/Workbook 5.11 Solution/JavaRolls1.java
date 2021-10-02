@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaRolls {
+public class JavaRolls1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Let's play Rolling Java. Type anything to start.");

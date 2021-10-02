@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pokerito {
+public class Pokerito1 {
     public static void main(String[] args) {
         //Task 2: Explain the rules. See the article 'Pokerito'
         Scanner scan = new Scanner(System.in);

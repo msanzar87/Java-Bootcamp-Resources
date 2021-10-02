@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Guess  {
+public class Guess1 {
     public static void main(String[] args) {
 
         int number = 4;
