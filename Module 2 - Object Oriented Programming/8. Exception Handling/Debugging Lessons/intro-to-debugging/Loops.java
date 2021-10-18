@@ -6,6 +6,6 @@ public class Loops {
                 System.out.print("*");
             }System.out.println("\n");
         }
-
+//when i equals 0 j will also equal 0 and print the star.
     }
 }
