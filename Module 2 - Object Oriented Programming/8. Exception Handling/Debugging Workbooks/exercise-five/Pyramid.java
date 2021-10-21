@@ -7,12 +7,12 @@ public class Pyramid {
                 System.out.print("\n");
                 continue;
             }
-            for (int j = 1; j <= 10; j++) {
-                letter++;
-                if (j < i) {
-                    System.out.print("   ");
+            for (int j = 1; j < 10; j++) {
+                if (j == i) {
+                    System.out.print(" " + letter++ + " ");
+                    break;
                 } else {
-                    System.out.print(" " + letter + " ");
+                    System.out.print("  ");
                 }
             }
             System.out.print("\n");
